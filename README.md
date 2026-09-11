@@ -291,4 +291,6 @@ reinvent it:
 
 Part of a small series on running developer tooling on BSD without
 reaching for a VM by default. See also:
-[`claude-code-openbsd`](https://github.com/simplestringdev/claude-code-openbsd).
+[`claude-code-openbsd`](https://github.com/simplestringdev/claude-code-openbsd) and
+[`opencode-nemotron-freebsd`](https://github.com/simplestringdev/opencode-nemotron-freebsd)
+(same Linuxulator base, a different CLI, and a free frontier model on top).
